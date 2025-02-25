@@ -1,2 +1,2 @@
 # Yellow-Detection
-![](img.png)
+![](image.png)
