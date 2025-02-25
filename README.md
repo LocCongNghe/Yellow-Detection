@@ -1,1 +1,2 @@
 # Yellow-Detection
+!(image.png)
